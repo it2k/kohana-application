@@ -1,0 +1,4 @@
+modules/
+vendor/
+composer.lock
+.htaccess
