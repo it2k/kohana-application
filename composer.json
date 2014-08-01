@@ -1,0 +1,14 @@
+{
+    "name": "zyuskin_en/kohana-application",
+    "description": "Базовый набор каталогов и файлов для Kohanaframework",
+    "require": {
+        "kohana/core": "3.3.*"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Егор Зюскин",
+            "email": "zyuskin_en@me.com"
+        }
+    ]
+}
