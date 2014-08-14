@@ -1,5 +1,5 @@
 {
-    "name": "zyuskin_en/kohana-application",
+    "name": "it2k/kohana-application",
     "description": "Базовый набор каталогов и файлов для Kohanaframework",
     "require": {
         "kohana/core": "3.3.*"
