@@ -1,6 +1,7 @@
 {
     "name": "it2k/kohana-application",
     "description": "Базовый набор каталогов и файлов для Kohanaframework",
+    "type": "project",
     "require": {
         "kohana/core": "3.3.*"
     },
